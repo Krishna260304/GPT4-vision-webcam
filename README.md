@@ -1,4 +1,4 @@
-# 🎯 Webcam GPT-4 Vision
+# Webcam GPT-4 Vision
 
 A Python application that captures webcam images and uses **GPT-4 Vision** to describe what it sees in real time.
 
